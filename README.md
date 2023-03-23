@@ -6,5 +6,4 @@ Hello!
 I'm an electrical engineer and master's student in the electrical engineering research line of computational intelligence. Currently, I'm researching the use of deep learning in the context of chemoinformatics, using mainly Graph Neural Networks. I also have worked on and developed computer vision and data science projects.
 </p>
 
-<a href="#" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/takaogahara/" /></a>
+<a href="https://www.linkedin.com/in/takaogahara/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
